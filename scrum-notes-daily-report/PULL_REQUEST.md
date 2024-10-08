@@ -104,7 +104,7 @@
     ![Buat PR](./images/pr-1.png)
     1. ubah branch tujuan menjadi **development** dan branch asal yaitu branch yang kalian kerjakan
     ![Buat PR](./images/pr-2.png)
-    1. tambahkan reviewer ke @yandiaan dan asignee adalah kalian sebagai yang mengerjakan
+    1. tambahkan reviewer ke @catursetyono dan asignee adalah kalian sebagai yang mengerjakan
     ![Buat PR](./images/pr-3.png)
     1. koneksikan pull request ke task yang kalian selesaikan sehingga task tersebut otomatis selesai di scrum boardnya
     ![Buat PR](./images/pr-4.png)
