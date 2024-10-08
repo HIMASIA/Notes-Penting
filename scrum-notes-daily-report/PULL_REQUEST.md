@@ -1,5 +1,5 @@
 # How To Make a Pull Request
-1. Setelah kamu mendapat task di [Scrum Board](https://github.com/orgs/UKM-IK/projects/9). buat branch baru di project **local** kamu dengan perintah
+1. buat branch baru di project **local** kamu dengan perintah
     ```
     git checkout -b <nama_branch>
     ```
@@ -32,7 +32,7 @@
     ```
 
     Implementasi :
-    ![Create New Branch](/images/new-branch.png)
+    ![Create New Branch](./images/new-branch.png)
 
 1. setelah branch dibuat, silahkan lanjut developing feature sesuai dengan task
 
@@ -64,7 +64,7 @@
     ```
 
     Implementasi : 
-    ![Commit Changes](/images/commit.png)
+    ![Commit Changes](./images/commit.png)
 
 1. Push ke repo 
     - Untuk push ke repo, gunakan command berikut :
@@ -91,24 +91,24 @@
     ```
 
     Implementasi :
-    ![Push ke Repo](/images/push.png)
+    ![Push ke Repo](./images/push.png)
 
 1. Setelah branch di push ke repo, buat pull request dan pastikan hal hal berikut :
     - Add diri sendiri sebagai assignee
     - Pastikan tujuan branch adalah branch **development**
-    - Add user (@yandiaan) sebagai reviewer
+    - Add user (@catursetyono) sebagai reviewer
     - jika code yang kalian push berkaitan dengan task yang ada di scrum board, koneksikan pull request kalian dengan task di scrum board
 
     Implementasi : 
     1. Buat pull request dengan klik tombol create di menu seperti dibawah :
-    ![Buat PR](/images/pr-1.png)
+    ![Buat PR](./images/pr-1.png)
     1. ubah branch tujuan menjadi **development** dan branch asal yaitu branch yang kalian kerjakan
-    ![Buat PR](/images/pr-2.png)
+    ![Buat PR](./images/pr-2.png)
     1. tambahkan reviewer ke @yandiaan dan asignee adalah kalian sebagai yang mengerjakan
-    ![Buat PR](/images/pr-3.png)
+    ![Buat PR](./images/pr-3.png)
     1. koneksikan pull request ke task yang kalian selesaikan sehingga task tersebut otomatis selesai di scrum boardnya
-    ![Buat PR](/images/pr-4.png)
+    ![Buat PR](./images/pr-4.png)
     1. sehingga contoh hasil akhir kurang lebih akan seperti ini :
-    ![Buat PR](/images/pr-5.png)
+    ![Buat PR](./images/pr-5.png)
 
 ### Happy Hacking Guys!
